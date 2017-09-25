@@ -7,3 +7,10 @@ tunnel fiat physics sprig towel lemon nudged wildly befit code testing cement ra
 xmr： 43Ug9R9evYZJiwYfitBNU6JBKgTF4ykUEfpX6ycQq5zsjWaRBDZfTgcZo4pduZAfyaXfj5XtbtfjiKWn7M4g4f4xKBJdWXT
 
 43Ug9R9evYZJiwYfitBNU6JBKgTF4ykUEfpX6ycQq5zsjWaRBDZfTgcZo4pduZAfyaXfj5XtbtfjiKWn7M4g4f4xKBJdWXT
+---------------------------------------------------------------------------------------------------
+[wallet 43Ug9R (out of sync)]: address
+43Ug9R9evYZJiwYfitBNU6JBKgTF4ykUEfpX6ycQq5zsjWaRBDZfTgcZo4pduZAfyaXfj5XtbtfjiKWn7M4g4f4xKBJdWXT
+[wallet 43Ug9R (out of sync)]: integrated_address
+Random payment ID: <d341adb6de67c6f2>
+Matching integrated address: 4DBMADy9Xp5JiwYfitBNU6JBKgTF4ykUEfpX6ycQq5zsjWaRBDZfTgcZo4pduZAfyaXfj5XtbtfjiKWn7M4g4f4xU4udLZ5qHY1ULoWY6S
+[wallet 43Ug9R (out of sync)]:
