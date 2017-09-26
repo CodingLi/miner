@@ -14,3 +14,5 @@ xmr： 43Ug9R9evYZJiwYfitBNU6JBKgTF4ykUEfpX6ycQq5zsjWaRBDZfTgcZo4pduZAfyaXfj5Xtb
 Random payment ID: <d341adb6de67c6f2>
 Matching integrated address: 4DBMADy9Xp5JiwYfitBNU6JBKgTF4ykUEfpX6ycQq5zsjWaRBDZfTgcZo4pduZAfyaXfj5XtbtfjiKWn7M4g4f4xU4udLZ5qHY1ULoWY6S
 [wallet 43Ug9R (out of sync)]:
+
+https://coin-hive.com/settings/sites?notice=saved
