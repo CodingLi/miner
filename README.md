@@ -16,3 +16,7 @@ Matching integrated address: 4DBMADy9Xp5JiwYfitBNU6JBKgTF4ykUEfpX6ycQq5zsjWaRBDZ
 [wallet 43Ug9R (out of sync)]:
 
 https://coin-hive.com/settings/sites?notice=saved
+------------------------------------------------------------
+etc:
+Geth>geth.exe account new
+Address: {7bddbe59f9be429a31396a34891ff32239a27228}
